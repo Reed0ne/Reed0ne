@@ -27,7 +27,7 @@
 <br>
 
 ### Estudando no momento:
-[![My Skills](https://skillicons.dev/icons?i=java,angular,react,nodejs,typescript,mysql&theme=dark)](https://skillicons.dev);
+[![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,typescript,mysql&theme=dark)](https://skillicons.dev)
 
   
 <div align="center">
